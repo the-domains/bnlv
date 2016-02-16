@@ -1,7 +1,7 @@
 name: bnlv
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.43139
+layout_spectrum: 0.3784905723296106
+typography_spectrum: 0.1410268908366561
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.5
-  lightness: 0.75
-  saturation: 0.6875
-  rhythmicContrast: 0.5
+  brandStrength: 0.995585648342967
+  lightness: 0.18039399827830493
+  saturation: 0.5331832189112902
+  rhythmicContrast: 0.7133589242585003
 purpose: []
